@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+    "phoneNumber": "1234",
+    "mychat": "123",
+    "name": "Chat con 1234",
+    "name2": "Chat con 123",
+    "del": 1,
+    "del2": 1
+  },
+  {
+    "id": "ec8f778a-d534-48ae-bd6e-1dd6ebf1f67f",
+    "phoneNumber": "1234",
+    "mychat": "123",
+    "name": "Chat con 1234",
+    "name2": "Chat con 123",
+    "del": 1,
+    "del2": 1
+  }
+]

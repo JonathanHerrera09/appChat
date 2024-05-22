@@ -1,0 +1,184 @@
+[
+  {
+    "99e2362c-0762-40c5-af6f-75534578de15": {
+      "message": [
+        {
+          "delivBy": "123",
+          "msg": "Hola",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "99e2362c-0762-40c5-af6f-75534578de15",
+          "del": 1,
+          "del2": 1,
+          "status": "Enviado"
+        },
+        {
+          "delivBy": "123",
+          "msg": "a?",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "99e2362c-0762-40c5-af6f-75534578de15",
+          "del": 1,
+          "del2": 1,
+          "status": "Enviado"
+        }
+      ]
+    }
+  },
+  {
+    "dcf0ca1f-2332-4676-956f-c583ad6b9239": {
+      "message": [
+        {
+          "delivBy": "123",
+          "msg": "Hola",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 0,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Super",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 0,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Hola",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Aqui",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "H",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "B",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Vv",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Y",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Vv",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "H",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "V",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "B",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Bb",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 0,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "123",
+          "msg": "Yes",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 1,
+          "status": "Leído"
+        },
+        {
+          "delivBy": "1234",
+          "msg": "Jejeje",
+          "name": "Chat con 1234",
+          "phone": "1234",
+          "idChat": "dcf0ca1f-2332-4676-956f-c583ad6b9239",
+          "del": 1,
+          "del2": 1,
+          "status": "Enviado"
+        }
+      ]
+    }
+  }
+]
